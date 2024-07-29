@@ -13,7 +13,7 @@ I'm a beginner developer with a passion for building engaging and efficient web 
 - **Learning Path:** React ➔ Node.js
 
 ## Find Me Around the Web 🌎:
-- Participating in open source projects and discussing tech on [GitHub Discussions](your-discussion-url)
+- Participating in open source projects and discussing tech on [GitHub Discussions]()
 - Sharing updates and networking on [LinkedIn](www.linkedin.com/in/nina-v-143624233)
 
 ## Fun Fact
