@@ -14,7 +14,7 @@ I'm a beginner developer with a passion for building engaging and efficient web 
 
 ## Find Me Around the Web 🌎:
 - Participating in open source projects and discussing tech on [GitHub Discussions]()
-- Sharing updates and networking on [LinkedIn](www.linkedin.com/in/nina-v-143624233)
+- Sharing updates and networking on [LinkedIn](www.linkedin.com/in/nina-v-143624233](https://www.linkedin.com/in/nina-volegova-858171347/)
 
 ## Fun Fact
 I love unraveling the complexities of the universe one code at a time and dreaming about the future possibilities in science and technology!
